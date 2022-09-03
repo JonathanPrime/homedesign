@@ -1284,6 +1284,9 @@ p.copyright {
     .img-responsive, .thumbnail>img, .thumbnail a>img, .carousel-inner>.item>img, .carousel-inner>.item>a>img {
         width: 24%;
     }
+    .img-about {
+        width: 100%;
+    }
     .temp19_menu ul li a.active {
         color: #ffffff;
     }
