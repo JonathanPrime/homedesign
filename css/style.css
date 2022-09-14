@@ -1341,7 +1341,7 @@ p.copyright {
         position: relative;
         z-index: 1;
         margin-top: 6px;
-        background-color: var(--palet-3);
+        /* background-color: var(--palet-3); */
     }
     .temp19_menu_wrapper ul li {
         margin-bottom: 10px;
@@ -1447,6 +1447,7 @@ p.copyright {
     }
     .counter_text p {
         text-align: center;
+        font-size: 12px;
     }
     .project_heading h1 {
         font-size: 45px;
@@ -1457,5 +1458,9 @@ p.copyright {
     .temp19_menu_bg .navbar-toggle {
         right: -31px;
         top: -2px;
+    }
+    .counter_text p {
+        text-align: center;
+        font-size: 8px;
     }
 }
