@@ -248,7 +248,7 @@ Project:	Responsive Interior Design Template
     //On scroll fixed menu
     $(window).scroll(function() {
         var wh = window.innerWidth;
-        if (wh > 767) {
+        if (wh > 1) {
             var h = window.innerHeight;
             var window_top = $(window).scrollTop() + 1;
             if (window_top > 100) {
